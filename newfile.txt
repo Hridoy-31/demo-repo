@@ -1,0 +1,4 @@
+This is a new file.
+
+Now you will understand what is modified and what is unstaged
+    or untracked file.
